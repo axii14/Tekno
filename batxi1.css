@@ -1,0 +1,119 @@
+h1{
+  font-family: 'Libre Franklin', sans-serif;   
+  text-align: center;
+  margin-bottom: 5px;
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.h1__underline{
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  display: block;
+  margin-bottom: 50px;
+}
+
+#Bidixuak{
+    background-color: black;
+    width: 100%;
+}
+
+.artikuluak{
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.zatixa{
+height: 400px;
+width: 350px;
+cursor: pointer;
+margin-bottom: 40px;
+}
+
+.zatixa:hover{
+border-bottom: 5px solid #eb8b1d;
+box-sizing: border-box;
+}
+
+
+.goixa1, .goixa2, .goixa3, .goixa4, .goixa5, .goixa6, .goixa1, .goixa1, .goixa1 {
+background-size: cover;
+height: 60%;
+position: relative;
+}
+
+.goixa1{
+background-image: url("https://www.energynews.es/wp-content/uploads/2019/09/siderurgia.jpg");
+background-position: center;
+}
+
+.goixa2{
+background-image: url("https://www.elmundo.cr/wp-content/uploads/2019/12/madera.jpg");
+background-position: center;
+}
+
+.goixa3{
+background-image: url("https://journocode.com/wp-content/uploads/2016/06/htmlCssJS-1140x515.jpg");
+background-position: center;
+}
+
+.goixa4{
+background-image: url("https://www.muylinux.com/wp-content/uploads/2020/05/AndroidStudio.png");
+background-position: center;
+}
+
+.goixa5{
+background-image: url("https://rosolutions.com.mx/blog/wp-content/uploads/2019/02/1_H-25KB7EbSHjv70HXrdl6w.png");
+background-position: center;
+}
+
+.goixa6{
+background-image: url("https://www.eclixxo.com/wp-content/uploads/2009/01/PHP-MYSQL.jpg");
+background-position: center;
+}
+
+.markia{
+background: white;
+padding: 5px 10px;
+border-radius: 6px;
+color: #eb8b1d;
+position: absolute;
+top: 10px;
+right: 10px;  
+font-family: 'Libre Franklin', sans-serif;   
+font-weight: 200;   
+letter-spacing: .05em; 
+}
+
+.behekua{
+background: rgba(234,239, 242, .7);
+height: 40%;
+}
+
+.tartia{
+padding: 15px;
+}
+
+.textua{
+margin-top: 6px;
+font-family: 'Libre Franklin', sans-serif;
+ color: #283D4A; 
+}
+
+#titulua{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+h2{
+  text-align:center;
+}
