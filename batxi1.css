@@ -6,14 +6,6 @@ h1{
   font-size: 25px;
 }
 
-.h1__underline{
-  margin-left: auto;
-  margin-right: auto;
-  width: 22%;
-  display: block;
-  margin-bottom: 50px;
-}
-
 #Bidixuak{
     background-color: black;
     width: 100%;
@@ -40,7 +32,7 @@ box-sizing: border-box;
 }
 
 
-.goixa1, .goixa2, .goixa3, .goixa4, .goixa5, .goixa6, .goixa1, .goixa1, .goixa1 {
+.goixa1, .goixa2, .goixa3, .goixa4, .goixa5, .goixa6, .goixa7, .goixa8, .goixa1 {
 background-size: cover;
 height: 60%;
 position: relative;
@@ -73,6 +65,16 @@ background-position: center;
 
 .goixa6{
 background-image: url("https://www.eclixxo.com/wp-content/uploads/2009/01/PHP-MYSQL.jpg");
+background-position: center;
+}
+
+.goixa7{
+background-image: url("");
+background-position: center;
+}
+
+.goixa8{
+background-image: url("");
 background-position: center;
 }
 
