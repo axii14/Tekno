@@ -6,10 +6,15 @@ h1{
   font-size: 25px;
 }
 
-#Bidixuak{
-    background-color: black;
-    width: 100%;
+.h1__underline{
+  margin-left: auto;
+  margin-right: auto;
+  width: 22%;
+  display: block;
+  margin-bottom: 50px;
 }
+
+
 
 .artikuluak{
   width: 95%;
@@ -54,17 +59,17 @@ background-position: center;
 }
 
 .goixa4{
-background-image: url("https://www.muylinux.com/wp-content/uploads/2020/05/AndroidStudio.png");
+background-image: url("https://cdn.thomasnet.com/insights-images/embedded-images/3d13f5a7-d0ec-43f6-b0d6-b7f6cddad0ba/bfde1906-77eb-4543-841d-af382bd83495/FullHD/all-type-plastic-fabrication-techniques.jpg");
 background-position: center;
 }
 
 .goixa5{
-background-image: url("https://rosolutions.com.mx/blog/wp-content/uploads/2019/02/1_H-25KB7EbSHjv70HXrdl6w.png");
+background-image: url("");
 background-position: center;
 }
 
 .goixa6{
-background-image: url("https://www.eclixxo.com/wp-content/uploads/2009/01/PHP-MYSQL.jpg");
+background-image: url("");
 background-position: center;
 }
 
@@ -92,7 +97,7 @@ letter-spacing: .05em;
 }
 
 .behekua{
-background: rgba(234,239, 242, .7);
+background: rgba(255, 221, 183, 0.7);
 height: 40%;
 }
 
@@ -110,6 +115,7 @@ font-family: 'Libre Franklin', sans-serif;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  position:relative;
 }
 
 a{
