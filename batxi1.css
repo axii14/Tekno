@@ -43,6 +43,21 @@ height: 60%;
 position: relative;
 }
 
+.goixa1{
+background-image: url("https://www.elindependiente.com/wp-content/uploads/2019/01/central_termica_la_robla-723x406.jpg");
+background-position: center;
+}
+
+.goixa2{
+background-image: url("http://www.indusla.com/wp-content/uploads/2017/04/INDUSLA-65.jpg");
+background-position: center;
+}
+
+.goixa3{
+background-image: url("https://www.areatecnologia.com/materiales/imagenes/dureza.jpg");
+background-position: center;
+}
+
 .goixa4{
 background-image: url("https://www.energynews.es/wp-content/uploads/2019/09/siderurgia.jpg");
 background-position: center;
@@ -63,23 +78,8 @@ background-image: url("https://cdn.thomasnet.com/insights-images/embedded-images
 background-position: center;
 }
 
-.goixa3{
-background-image: url("https://www.areatecnologia.com/materiales/imagenes/dureza.jpg");
-background-position: center;
-}
-
 .goixa8{
 background-image: url("https://www.10wallpaper.com/wallpaper/1366x768/1606/Focus_gears_motor_gear-High_Quality_HD_Wallpaper_1366x768.jpg");
-background-position: center;
-}
-
-.goixa1{
-background-image: url("https://www.elindependiente.com/wp-content/uploads/2019/01/central_termica_la_robla-723x406.jpg");
-background-position: center;
-}
-
-.goixa2{
-background-image: url("http://www.indusla.com/wp-content/uploads/2017/04/INDUSLA-65.jpg");
 background-position: center;
 }
 
@@ -125,3 +125,4 @@ a{
 h2{
   text-align:center;
 }
+
